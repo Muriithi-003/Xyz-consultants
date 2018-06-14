@@ -56,13 +56,11 @@ h1 {
   text-align: center;
   padding-bottom: 20px;
 }
-
-a:link {
-  color: #140509;
+a:active {
+  color: white;
 }
-
 a:hover {
-  color: #E5B181;
+  color: white;
 }
 
 .intro {
@@ -92,12 +90,14 @@ a:hover {
 }
 
 .values {
+  font-family: 'Advent Pro';font-size: 18px;
   background-image: url("../img/z.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
   color: white;
+  padding: 30px;
 }
 .rangi {
   font-style: italic;
