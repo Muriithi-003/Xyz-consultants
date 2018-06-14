@@ -100,6 +100,7 @@ a:hover {
   padding: 30px;
 }
 .rangi {
+  font-size: 15px;
   font-style: italic;
   color: white;
   background-color: #140509;
@@ -110,6 +111,6 @@ button {
     font-size: 20px;
 }
 button:hover {
-  background-color: #140509;
-  color: white;
+  background-color: grey;
+  color: black  ;
 }
